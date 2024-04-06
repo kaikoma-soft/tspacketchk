@@ -4,7 +4,7 @@
 
 #include "def.h"
 
-char *version  = "1.0.0";
+char *version  = "1.0.1";
 bool  opt_p     = false ;
 bool  opt_P     = false ;
 bool  opt_d     = false ;
